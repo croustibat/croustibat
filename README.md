@@ -42,7 +42,5 @@ Here are some ideas to get you started:
 ## Baptiste Bouillot
 
 - CTO @ [Dernier Cri](https://www.derniercri.io)
-
-![Metrics](https://metrics.lecoq.io/croustibat)
-
-
+- Software Architect, co-creator of Deezer R&D, @ [Deezer](https://research.deezer.com/)
+- Co-founder @ Matière Noire (web & mobile & iot agency)
