@@ -28,19 +28,14 @@ Here are some ideas to get you started:
       alt="LinkedIn"
     />
   </a>
-
-  <a href="https://app.daily.dev/croustibat">
-    <img 
-      src="https://api.daily.dev/devcards/ea7231c5730a4d6ab191a51e77eeb9b6.png?r=wab"
-      width="256"
-      align="right"
-      alt="Baptiste Bouillot's Dev Card"
-    />
+  <a href="https://app.daily.dev/croustibat44">
+    <img src="https://api.daily.dev/devcards/v2/sgV4fU1VXuKZ5mraMZnSz.png?r=cwn&type=default" align="right" width="356" alt="Baptiste Bouillot's Dev Card"/>
   </a>
 </div>
 
 ## Baptiste Bouillot
 
+- Software Crafter Laravel
 - CTO @ [Dernier Cri](https://www.derniercri.io)
 - Software Architect, co-creator of Deezer R&D, @ [Deezer](https://research.deezer.com/)
 - Co-founder @ Matière Noire (web & mobile & iot agency)
