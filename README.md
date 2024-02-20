@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## Baptiste Bouillot
 
-- Software Crafter Laravel
-- CTO @ [Dernier Cri](https://www.derniercri.io)
-- Software Architect, co-creator of Deezer R&D, @ [Deezer](https://research.deezer.com/)
+- Software Crafter, PHP & Laravel specialist 
+- ex CTO @ [Dernier Cri](https://www.derniercri.io)
 - Co-founder @ Matière Noire (web & mobile & iot agency)
+- Software Architect, co-creator of Deezer R&D, @ [Deezer](https://research.deezer.com/)
